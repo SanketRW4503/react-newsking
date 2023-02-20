@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import axios from "axios"
 import Loader from './Loader';
 import Footer from './Footer';
-
+import imageNotFound from './images/image-not-found.png'
 
 
 export default function NewsPage(props) {
@@ -14,7 +14,7 @@ export default function NewsPage(props) {
   const [page, setPage] = useState(1)
 
 let nullObj={
-  image:'/image-not-found.png'
+  image:imageNotFound
   ,title:"No Title",description:'No Description Available Click On "Read More" to know more'
 }
 
