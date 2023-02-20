@@ -1,15 +1,19 @@
 {
   "files": {
     "main.css": "/react-newsking/static/css/main.e32c15a0.css",
-    "main.js": "/react-newsking/static/js/main.795f7b82.js",
+    "main.js": "/react-newsking/static/js/main.b828dd79.js",
     "static/js/787.4c8f693f.chunk.js": "/react-newsking/static/js/787.4c8f693f.chunk.js",
+    "static/media/insta.png": "/react-newsking/static/media/insta.18ec3c744b69108ee309.png",
+    "static/media/twitter.png": "/react-newsking/static/media/twitter.b413b75b86f226240110.png",
+    "static/media/image-not-found.png": "/react-newsking/static/media/image-not-found.295cf90aa4bc156e1ea4.png",
+    "static/media/fb.png": "/react-newsking/static/media/fb.5ac58a41f35c816d6d2d.png",
     "index.html": "/react-newsking/index.html",
     "main.e32c15a0.css.map": "/react-newsking/static/css/main.e32c15a0.css.map",
-    "main.795f7b82.js.map": "/react-newsking/static/js/main.795f7b82.js.map",
+    "main.b828dd79.js.map": "/react-newsking/static/js/main.b828dd79.js.map",
     "787.4c8f693f.chunk.js.map": "/react-newsking/static/js/787.4c8f693f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e32c15a0.css",
-    "static/js/main.795f7b82.js"
+    "static/js/main.b828dd79.js"
   ]
 }
